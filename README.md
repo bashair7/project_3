@@ -3,15 +3,12 @@
 ### the project explan how to connect servo motor with arduno uno use tinkercad and In reality
 ## step1 use tinkercad
 #### insert Urdino uno 
+#### insert servo motor
 #### insert resistor
  #### insert potentiometer
  #### insert breadboard small
 ####  botao 3
-#### redLed 12
-#### greenLed 11
-#### blueLed 13
 #### potPin A0
-
 ## step 2
 ### write the code 
 ```
@@ -80,12 +77,11 @@ https://user-images.githubusercontent.com/79949101/180876871-2ee58796-6d58-4762-
 ## servo motor in  reality
 ## step1 
 #### insert Urdino uno 
+ #### insert breadboard small
+#### insert servo motor
 ####  labtop
+####    connecting wires
 ####   wire connecting arduino to laptop
-####  Ground
-#### Digital pin 9
-#### 5V
-
 ## step 2
 ### write the code 
 ```
@@ -118,18 +114,7 @@ https://user-images.githubusercontent.com/79949101/180878076-502d1e40-0899-48cc-
 #### insert Urdino uno 
 ####  9v battery
 ####  dc motor with encoder (stepper)
-#### Digital pin 11
-#### Digital pin 10
-#### Digital pin 9
-#### Digital pin 8
-####  Ground
-#### 5V
-#### wire green
-#### wire black
-#### wire Red
-#### wire Yellow
-#### wire purple
-#### wire black
+####    connecting wires
 ## step 2
 ### write the code 
 ```
@@ -160,9 +145,7 @@ https://user-images.githubusercontent.com/79949101/180886354-e78f9f82-f79d-477a-
 #### insert Urdino uno 
 ####  9v battery
 ####  dc motor (brushless motor)
-####  Ground
-#### wire positive
-#### wire negitive
+####    connecting wires
 ## step 2
 ### write the code 
 ```
@@ -182,11 +165,13 @@ void loop()
 ### run the code
 ![brushless motor](https://user-images.githubusercontent.com/79949101/180888199-85f5e772-3cee-4d13-886d-84f9971d429b.jpg)
 
-
-
-
 https://user-images.githubusercontent.com/79949101/180888988-03935aa9-fce8-4423-83ac-066cb67f028c.mp4
 
+## brushless motor in  reality
+
+![msg791111762-11318 (1)](https://user-images.githubusercontent.com/81494917/181352514-5ae3d2ea-4aaa-4737-b514-87bd477bd265.jpg)
+
+https://user-images.githubusercontent.com/81494917/181352463-6a6758d7-3977-4849-800c-6759fa4a9b10.MP4
 
 
 
